@@ -1,4 +1,4 @@
-import 'package:demo_04/category_item.dart';
+import 'package:demo_04/widgets/category_item.dart';
 import 'package:demo_04/dummy_data.dart';
 import 'package:flutter/material.dart';
 
